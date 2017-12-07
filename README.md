@@ -1,6 +1,6 @@
 ## Livecoin
 
-Livecoin is base on the bitcoin. But livecoin can die and live..
+Livecoin is base on the the Etherem . But livecoin can die and live..
 
 
 ## License
